@@ -50,6 +50,6 @@ kunci = ""
 for i in pasword :
   kunci += i
 
-print(f"Your password is: {kunci}\n\n ====terimakasih====\n")
+print(f"Your password is: {kunci}\n\n====terimakasih====\n")
 
 
